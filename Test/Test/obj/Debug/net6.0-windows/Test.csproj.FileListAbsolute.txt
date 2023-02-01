@@ -1,0 +1,17 @@
+C:\Users\Justiniane\OneDrive\Desktop\Test\Test\bin\Debug\net6.0-windows\Test.exe
+C:\Users\Justiniane\OneDrive\Desktop\Test\Test\bin\Debug\net6.0-windows\Test.deps.json
+C:\Users\Justiniane\OneDrive\Desktop\Test\Test\bin\Debug\net6.0-windows\Test.runtimeconfig.json
+C:\Users\Justiniane\OneDrive\Desktop\Test\Test\bin\Debug\net6.0-windows\Test.dll
+C:\Users\Justiniane\OneDrive\Desktop\Test\Test\bin\Debug\net6.0-windows\Test.pdb
+C:\Users\Justiniane\OneDrive\Desktop\Test\Test\obj\Debug\net6.0-windows\Test.csproj.AssemblyReference.cache
+C:\Users\Justiniane\OneDrive\Desktop\Test\Test\obj\Debug\net6.0-windows\Test.Form1.resources
+C:\Users\Justiniane\OneDrive\Desktop\Test\Test\obj\Debug\net6.0-windows\Test.csproj.GenerateResource.cache
+C:\Users\Justiniane\OneDrive\Desktop\Test\Test\obj\Debug\net6.0-windows\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justiniane\OneDrive\Desktop\Test\Test\obj\Debug\net6.0-windows\Test.AssemblyInfoInputs.cache
+C:\Users\Justiniane\OneDrive\Desktop\Test\Test\obj\Debug\net6.0-windows\Test.AssemblyInfo.cs
+C:\Users\Justiniane\OneDrive\Desktop\Test\Test\obj\Debug\net6.0-windows\Test.csproj.CoreCompileInputs.cache
+C:\Users\Justiniane\OneDrive\Desktop\Test\Test\obj\Debug\net6.0-windows\Test.dll
+C:\Users\Justiniane\OneDrive\Desktop\Test\Test\obj\Debug\net6.0-windows\refint\Test.dll
+C:\Users\Justiniane\OneDrive\Desktop\Test\Test\obj\Debug\net6.0-windows\Test.pdb
+C:\Users\Justiniane\OneDrive\Desktop\Test\Test\obj\Debug\net6.0-windows\Test.genruntimeconfig.cache
+C:\Users\Justiniane\OneDrive\Desktop\Test\Test\obj\Debug\net6.0-windows\ref\Test.dll
