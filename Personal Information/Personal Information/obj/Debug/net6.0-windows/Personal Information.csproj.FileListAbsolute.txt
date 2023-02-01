@@ -1,0 +1,18 @@
+C:\Users\Justiniane\OneDrive\Desktop\Personal Information\Personal Information\obj\Debug\net6.0-windows\Personal Information.csproj.AssemblyReference.cache
+C:\Users\Justiniane\OneDrive\Desktop\Personal Information\Personal Information\obj\Debug\net6.0-windows\Personal_Information.Form1.resources
+C:\Users\Justiniane\OneDrive\Desktop\Personal Information\Personal Information\obj\Debug\net6.0-windows\Personal Information.csproj.GenerateResource.cache
+C:\Users\Justiniane\OneDrive\Desktop\Personal Information\Personal Information\obj\Debug\net6.0-windows\Personal Information.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justiniane\OneDrive\Desktop\Personal Information\Personal Information\obj\Debug\net6.0-windows\Personal Information.AssemblyInfoInputs.cache
+C:\Users\Justiniane\OneDrive\Desktop\Personal Information\Personal Information\obj\Debug\net6.0-windows\Personal Information.AssemblyInfo.cs
+C:\Users\Justiniane\OneDrive\Desktop\Personal Information\Personal Information\obj\Debug\net6.0-windows\Personal Information.csproj.CoreCompileInputs.cache
+C:\Users\Justiniane\OneDrive\Desktop\Personal Information\Personal Information\bin\Debug\net6.0-windows\Personal Information.exe
+C:\Users\Justiniane\OneDrive\Desktop\Personal Information\Personal Information\bin\Debug\net6.0-windows\Personal Information.deps.json
+C:\Users\Justiniane\OneDrive\Desktop\Personal Information\Personal Information\bin\Debug\net6.0-windows\Personal Information.runtimeconfig.json
+C:\Users\Justiniane\OneDrive\Desktop\Personal Information\Personal Information\bin\Debug\net6.0-windows\Personal Information.dll
+C:\Users\Justiniane\OneDrive\Desktop\Personal Information\Personal Information\bin\Debug\net6.0-windows\Personal Information.pdb
+C:\Users\Justiniane\OneDrive\Desktop\Personal Information\Personal Information\obj\Debug\net6.0-windows\Personal Information.dll
+C:\Users\Justiniane\OneDrive\Desktop\Personal Information\Personal Information\obj\Debug\net6.0-windows\refint\Personal Information.dll
+C:\Users\Justiniane\OneDrive\Desktop\Personal Information\Personal Information\obj\Debug\net6.0-windows\Personal Information.pdb
+C:\Users\Justiniane\OneDrive\Desktop\Personal Information\Personal Information\obj\Debug\net6.0-windows\Personal Information.genruntimeconfig.cache
+C:\Users\Justiniane\OneDrive\Desktop\Personal Information\Personal Information\obj\Debug\net6.0-windows\ref\Personal Information.dll
+C:\Users\Justiniane\OneDrive\Desktop\Personal Information\Personal Information\obj\Debug\net6.0-windows\Personal_Information.Properties.Resources.resources
